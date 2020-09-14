@@ -1,0 +1,13 @@
+C:\Users\Pete\WorkRelated\WorkRelated\WorkRelated\bin\Debug\netcoreapp3.1\WorkRelated.exe
+C:\Users\Pete\WorkRelated\WorkRelated\WorkRelated\bin\Debug\netcoreapp3.1\WorkRelated.deps.json
+C:\Users\Pete\WorkRelated\WorkRelated\WorkRelated\bin\Debug\netcoreapp3.1\WorkRelated.runtimeconfig.json
+C:\Users\Pete\WorkRelated\WorkRelated\WorkRelated\bin\Debug\netcoreapp3.1\WorkRelated.runtimeconfig.dev.json
+C:\Users\Pete\WorkRelated\WorkRelated\WorkRelated\bin\Debug\netcoreapp3.1\WorkRelated.dll
+C:\Users\Pete\WorkRelated\WorkRelated\WorkRelated\bin\Debug\netcoreapp3.1\WorkRelated.pdb
+C:\Users\Pete\WorkRelated\WorkRelated\WorkRelated\obj\Debug\netcoreapp3.1\WorkRelated.vbprojAssemblyReference.cache
+C:\Users\Pete\WorkRelated\WorkRelated\WorkRelated\obj\Debug\netcoreapp3.1\WorkRelated.AssemblyInfoInputs.cache
+C:\Users\Pete\WorkRelated\WorkRelated\WorkRelated\obj\Debug\netcoreapp3.1\WorkRelated.AssemblyInfo.vb
+C:\Users\Pete\WorkRelated\WorkRelated\WorkRelated\obj\Debug\netcoreapp3.1\WorkRelated.vbproj.CoreCompileInputs.cache
+C:\Users\Pete\WorkRelated\WorkRelated\WorkRelated\obj\Debug\netcoreapp3.1\WorkRelated.dll
+C:\Users\Pete\WorkRelated\WorkRelated\WorkRelated\obj\Debug\netcoreapp3.1\WorkRelated.pdb
+C:\Users\Pete\WorkRelated\WorkRelated\WorkRelated\obj\Debug\netcoreapp3.1\WorkRelated.genruntimeconfig.cache
